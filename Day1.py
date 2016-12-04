@@ -28,8 +28,6 @@ For example, if your instructions are R8, R4, R4, R8, the first location you vis
 How many blocks away is the first location you visit twice?
 """
 
-from copy import deepcopy
-
 x = 0
 y = 0
 facing = 0
